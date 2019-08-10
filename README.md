@@ -1,4 +1,10 @@
 # Binary classification
+
+					/**********************************************/
+					/ Title : Binary Classification                /
+					/ Created by : JAGRUT BHATT, RUCHITA           /
+					/**********************************************/
+
 Basic knowledge required is C,C++ and Python 
 If we have Problem like Yes/No, white/Black, Cat/Dog...etc. while you have only two options at that time you can use this Binary classification 
 

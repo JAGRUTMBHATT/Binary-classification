@@ -2,7 +2,7 @@
 
 					/**********************************************/
 					/ Title : Binary Classification                /
-					/ Created by : JAGRUT BHATT, RUCHITA           /
+					/ Created by : JAGRUT BHATT, RUCHITA, RAKHI    /
 					/**********************************************/
 
 Basic knowledge required is C,C++ and Python 
